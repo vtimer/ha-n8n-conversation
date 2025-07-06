@@ -1,0 +1,5 @@
+{
+  "name": "n8n Conversation Agent",
+   "render_readme": true,
+   "homeassistant": "2024.1.0"
+ }
